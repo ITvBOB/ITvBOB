@@ -1,9 +1,9 @@
 # ☹️ I hate investing in finance. I'd rather invest in knowledge.
 
-🎬　油管(YouTube) https://Waiting
-🖋　知乎(ZhiHu) https://Waiting
-🔗　博客(Blog) https://Waiting
-📧　邮箱(Email) Waiting
+- 🎬　油管(YouTube) https://Waiting
+- 🖋　知乎(ZhiHu) https://Waiting
+- 🔗　博客(Blog) https://Waiting
+- 📧　邮箱(Email) Waiting
 
 
 <!--
